@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc.
 
 ## Purpose
 A website that offers firness training services.
@@ -12,3 +12,4 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Kevin Long
+### ©️2019 Run Buddy, Inc.
